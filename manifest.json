@@ -1,0 +1,12 @@
+{
+  "name": "Webpage Text Highlighter",
+  "version": "1.0.0",
+  "description": "Text Highlighter for webpages",
+  "manifest_version": 3,
+  "author": "Parab Mishra",
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Webpage Text Highlighter"
+  },
+  "permissions": ["scripting", "activeTab"]
+}
